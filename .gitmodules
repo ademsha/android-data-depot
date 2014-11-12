@@ -1,3 +1,6 @@
 [submodule "realm-realm-java"]
 	path = realm-realm-java
 	url = https://github.com/realm/realm-java.git
+[submodule "pardom-activeandroid"]
+	path = pardom-activeandroid
+	url = https://github.com/pardom/ActiveAndroid.git
