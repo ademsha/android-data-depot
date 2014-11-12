@@ -1,4 +1,4 @@
-android-data-depot
+Android Data Depot
 ==================
 
 Android Data Libraries Depot
